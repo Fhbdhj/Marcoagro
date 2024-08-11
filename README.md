@@ -36,13 +36,3 @@ JavaScript: Para funcionalidades interativas.
 LICENÇA:
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
-
-Contato:
-
-Se tiver alguma dúvida ou sugestão, entre em contato:
-
-Nome: Ana Clara Coltri
-
-E-mail: coltri.ana@escola.pr.gov.br
-
-GitHub: [AnaColtri](https://github.com/AnaColtri)
